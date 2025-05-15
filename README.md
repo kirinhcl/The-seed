@@ -1,2 +1,2 @@
-# The-seed
-A seed of plant for virtual world
+# Twin Maize
+## GxExM CLIP
